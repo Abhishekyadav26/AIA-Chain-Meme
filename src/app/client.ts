@@ -11,3 +11,11 @@ if (!clientId) {
 export const client = createThirdwebClient({
   clientId: clientId,
 });
+
+const addressmeme = process.env.NEXT_PUBLIC_TEMPLATE_Address as string;
+
+if (!addressmeme) {
+  throw new Error("No Address Found");
+}
+
+export default addressmeme ;
