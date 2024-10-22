@@ -1,5 +1,5 @@
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
+![Screenshot from 2024-10-22 15-22-01](https://github.com/user-attachments/assets/8944dfff-c853-47db-aa60-6d38035777ef)
 
 
 ## Installation
@@ -42,4 +42,6 @@ Preview the production build
 
 ```bash
 yarn start
-```# AIA-Chain-Meme
+```
+
+
