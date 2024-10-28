@@ -5,6 +5,8 @@
 
  [here](https://testnet.aiascan.com/address/0x1D396480441cf6Bd450AB96ac84DCa90280C6cce)
 
+# contract address :- 0x1D396480441cf6Bd450AB96ac84DCa90280C6cce
+
 ## Installation
 
 Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
