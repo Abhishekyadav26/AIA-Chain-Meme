@@ -1,6 +1,9 @@
 
 ![Screenshot from 2024-10-22 15-22-01](https://github.com/user-attachments/assets/8944dfff-c853-47db-aa60-6d38035777ef)
 
+## link for aiascan
+
+ [here](https://testnet.aiascan.com/address/0x1D396480441cf6Bd450AB96ac84DCa90280C6cce)
 
 ## Installation
 
@@ -40,8 +43,13 @@ yarn build
 
 Preview the production build
 
+
+
+```bash
+yarn build
+```
+
 ```bash
 yarn start
 ```
-
 
